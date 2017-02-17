@@ -1,0 +1,38 @@
+[
+  {
+    "remote":       "github",
+    "repository":   "C457/android_vendor_nxp-nfc_opensource_frameworks",
+    "target_path":  "vendor/nxp-nfc/opensource/frameworks",
+    "branch":       "cm-14.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "C457/android_vendor_nxp-nfc_opensource_libnfc-nci",
+    "target_path":  "vendor/nxp-nfc/opensource/libnfc-nci",
+    "branch":       "cm-14.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "C457/android_vendor_nxp-nfc_opensource_Nfc",
+    "target_path":  "vendor/nxp-nfc/opensource/Nfc",
+    "branch":       "cm-14.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "C457/android_kernel_zte_msm8996",
+    "target_path":  "kernel/zte/msm8996",
+    "branch":       "cm-14.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "TheMuppets/proprietary_vendor_zte",
+    "target_path":  "vendor/zte",
+    "branch":       "cm-14.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "Seraph08/hardware_cyanogen",
+    "target_path":  "hardware/cyanogen",
+    "branch":       "cm-14.1"
+  },
+]
